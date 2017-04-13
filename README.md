@@ -1,5 +1,5 @@
 
-O EdO é uma ferramenta de edição online. Ele agrupa em um único workflow  três projetos que permitem a edição de xmls, conversões de arquivos em tex e e epub e a compilação de PDFs.
+O EdO é uma ferramenta de edição online. Ele necessita e agrupa em um único workflow  três outros projetos que permitem a edição de xmls, conversões de arquivos em tex e e epub e a compilação de PDFs.
 
 ![Ferramentas que compõem o EdO](01.jpg)
 
