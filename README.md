@@ -13,8 +13,7 @@ de edição e modelos de negócio.
 ![Aplicação do ponto de vista do cliente](03.jpg)
 
 
-Etapas
-------
+Etapas:
 
 
 | Planejamento    | O objetivo é descrever os vários workflows e escolher uma única ferramenta como frontend do EdO                  |
