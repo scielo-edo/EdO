@@ -10,7 +10,7 @@ servindo para os diferente fluxos
 de edição e modelos de negócio. 
 
 
-![Aplicação do ponto de vista do cliente](04.jpg)
+![Aplicação do ponto de vista do cliente](03.jpg)
 
 
 Etapas
