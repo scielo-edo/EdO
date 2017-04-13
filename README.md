@@ -15,7 +15,7 @@ de edição e modelos de negócio.
 
 | Etapas          | Descrição                                                                                                        |
 |-----------------|------------------------------------------------------------------------------------------------------------------|
-| Planejamento    | O objetivo é descrever os vários workflows e escolher uma única ferramenta como frontend do EdO                  |
+| Planejamento    | Descrição dos vários workflows em questão e escolha de uma única ferramenta como frontend do EdO                  |
 | Desenvolvimento | Desenvolvimento de um módulo ou plugin para a integração dos múltiplos serviços (microservices) ligados ao EdO   |
 | Beta            | Desenvolvimento de ensaios e uso interno restrito para validação da berramenta                                   |
 | Testes          | Testes com equipe interna do SciELO em um fluxo específico de produção                                           |
