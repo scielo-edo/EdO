@@ -13,11 +13,11 @@ de edição e modelos de negócio.
 ![Aplicação do ponto de vista do cliente](03.jpg)
 
 
-Etapas:
 
+| Etapas    | Descrição                  |
+|-----------------|------------------------------------------------------------------------------------------------------------------|
 
 | Planejamento    | O objetivo é descrever os vários workflows e escolher uma única ferramenta como frontend do EdO                  |
-|-----------------|------------------------------------------------------------------------------------------------------------------|
 | Desenvolvimento | Desenvolvimento de um módulo ou plugin para a integração dos múltiplos serviços (microservices) ligados ao EdO   |
 | Beta            | Desenvolvimento de ensaios e uso interno restrito para validação da berramenta                                   |
 | Testes          | Testes com equipe interna do SciELO em um fluxo específico de produção                                           |
